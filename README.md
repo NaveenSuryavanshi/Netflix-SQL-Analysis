@@ -1,4 +1,3 @@
-# Netflix-SQL-Analysis
 # Netflix SQL Analysis
 
 ## Project Overview
