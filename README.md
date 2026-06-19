@@ -1,35 +1,41 @@
 # Netflix SQL Analysis
 
-## Project Overview
-This project contains SQL queries used to analyze the Netflix dataset.
+## Overview
+This project analyzes Netflix Movies and TV Shows data using SQL to derive meaningful business insights.
 
 ## Dataset
-Netflix Movies and TV Shows dataset.
+Netflix Movies and TV Shows Dataset
 
-## Skills Demonstrated
-- SELECT Statements
-- Filtering using WHERE
-- Aggregate Functions
+## Objectives
+- Analyze content distribution
+- Identify top content-producing countries
+- Examine rating patterns
+- Study yearly content growth
+- Explore genre trends
+
+## SQL Concepts Used
+- SELECT
+- WHERE
 - GROUP BY
 - HAVING
+- ORDER BY
+- Aggregate Functions
 - CASE Statements
-- Window Functions
-- Data Analysis
+- Subqueries
 
-## Sample Business Questions Solved
+## Business Questions Solved
 
-1. Count total Movies and TV Shows
-2. Find content added each year
-3. Top countries producing Netflix content
-4. Most common ratings
-5. Longest movie on Netflix
-6. Content distribution by genre
-7. Year-wise trend analysis
+1. Count Movies and TV Shows
+2. Most common content ratings
+3. Top countries by content count
+4. Longest movie available
+5. Year-wise content addition trend
+6. Genre analysis
+7. Content distribution insights
 
-## Tools Used
-- SQL
-- MySQL
-- GitHub
+## Files
+- Netflix_Data.csv
+- netflix sql query.sql
 
 ## Author
 Naveen Suryavanshi
